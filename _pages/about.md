@@ -54,6 +54,10 @@ I am a fourth year PhD student on Mathematics in Fudan University, Shanghai, Chi
   
 -	`Yaobin Chen`, Bojan Mohar, Hehui Wu. Proper orientations and proper chromatic number. *Journal of Combinatorial Theory, Series B*. 2023.  
 [(Arxiv version)](https://arxiv.org/pdf/2110.07005), [(Journal version)](https://www.sciencedirect.com/science/article/abs/pii/S0095895623000114).
+
+</div>
+</div>
+
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Scholorship
