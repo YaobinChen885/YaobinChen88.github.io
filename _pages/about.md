@@ -16,15 +16,18 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
 I am a fourth year PhD student on Mathematics in Fudan University, Shanghai, China. My supervisor is Hehui Wu. I am interested in extremal graph theory and directed graph.
 
   
 <span class='anchor' id='-xl'></span>
+
 # 🎓 Education
 - *2017 - 2021*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Bachelor, Mathematics ,University of Science and Technology of China, Hefei, China. 
 - *2021 - 2026*, (expect) <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> PhD student, Mathematics, Fudan University, Shanghai, China.
  
 <span class='anchor' id='-lwzl'></span>
+
 # 📝 Research Paper
 
 ---
@@ -47,14 +50,17 @@ I am a fourth year PhD student on Mathematics in Fudan University, Shanghai, Chi
 </div>
 
 <span class='anchor' id='-ryjx'></span>
+
 # 🏅 Scholorship
 - *2023*  CSC scholorship.    
 
 <span class='anchor' id='-xshy'></span>
+
 # 🏛️ Talk
 - *2024.7*, BCC, contributed talk.  
 
 
 <span class='anchor' id='-gzsx'></span>
+
 # 💻 Teaching experience
 - *2021.09 - 2022.01*, teaching assitant, Graph theory.
